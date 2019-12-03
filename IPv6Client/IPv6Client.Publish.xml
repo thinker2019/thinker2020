@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\服务器连接\client" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/Yanwu.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/tower0.bmp" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="Global.asax" publishTime="05/14/2014 14:59:18" />
+    <file relUrl="images/luyou.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="content.aspx" publishTime="06/26/2014 17:09:36" />
+    <file relUrl="Styles/Site.css" publishTime="05/14/2014 14:59:18" />
+    <file relUrl="images/top02.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="Logo.aspx" publishTime="06/13/2014 10:24:27" />
+    <file relUrl="About.aspx" publishTime="05/14/2014 14:59:18" />
+    <file relUrl="images/aodv.gif" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="images/Wensidu.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/ico13.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="Styles/login.css" publishTime="05/14/2014 16:50:26" />
+    <file relUrl="images/jianbie.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="bin/IPv6Client.pdb" publishTime="06/26/2014 17:12:48" />
+    <file relUrl="images/zhujiemian.bmp" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/fangwen.gif" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="Styles/style.css" publishTime="05/14/2014 16:50:26" />
+    <file relUrl="images/line01.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/gengxin.gif" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="bin/IPv6Client.dll" publishTime="06/26/2014 17:12:48" />
+    <file relUrl="Register.aspx" publishTime="05/21/2014 08:45:50" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/14/2014 14:59:18" />
+    <file relUrl="ValidateNum.aspx" publishTime="05/14/2014 17:01:06" />
+    <file relUrl="images/Dianbiao.jpg" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="Default.aspx" publishTime="05/21/2014 10:34:36" />
+    <file relUrl="Styles/calendar.css" publishTime="05/14/2014 16:50:26" />
+    <file relUrl="images/CH4.jpg" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="images/Router3.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/Zhendong.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/Hongwai.jpg" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="images/WJZhixian.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="images/CP.bmp" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="images/chengguo.bmp" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="images/renzheng.gif" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="Web.config" publishTime="06/12/2014 16:48:16" />
+    <file relUrl="images/Router2.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="tops.aspx" publishTime="05/21/2014 10:34:44" />
+    <file relUrl="images/CQUPT4.bmp" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/14/2014 14:59:18" />
+    <file relUrl="images/GateWay.jpg" publishTime="05/14/2014 17:05:56" />
+    <file relUrl="Styles/control.css" publishTime="05/14/2014 16:50:26" />
+    <file relUrl="images/Router1.jpg" publishTime="05/14/2014 17:05:58" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/14/2014 14:59:18" />
+  </publishProfile>
+</publishData>

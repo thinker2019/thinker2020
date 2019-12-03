@@ -1,0 +1,75 @@
+body{
+	margin:0px;
+    width: 100%;
+}
+/*为使用whole的body设置统一的格式*/
+body.whole 
+{
+    
+    margin-right: 5px;
+    width: 100%;
+    margin-left: 5px;
+}
+html {
+	scrollbar-face-color:#CCD0DB;
+	scrollbar-highlight-color:#fff;
+	scrollbar-shadow-color:#fff;
+	scrollbar-3dlight-color:#6795B4;
+	scrollbar-arrow-color:#20669A;
+	scrollbar-track-color:#fff;
+	scrollbar-darkshadow-color:#6795B4;
+	border:0;
+	}
+html { overflow-x: hidden; overflow-y: auto; } 
+
+
+.mycenter {
+    text-align: center;
+}
+.buttonstyle {
+    height: 36px;
+    width: 102px;
+    background-color: #008b8b;
+    border-bottom-style: outset;
+    font-weight: 700;
+    font-size: large;
+    
+}
+.TextBox {
+    width: 140px;
+    height: 20px;
+    font-size: medium;
+}
+.DropDownListSyle {
+    width: 144px;
+    font-size: medium;
+}
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+    margin-left: 100px;
+}
+div.accountInfo
+{
+    width: 42%;
+}
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
